@@ -6,7 +6,7 @@ body{
 
 .cabecalho{
     color: white;
-    background-color: black;
+    background-color: rgba(1, 73, 1, 0.993);
     text-align: center;
     padding: 30px;
 }
@@ -35,8 +35,12 @@ p .alinha{
 }
 
 .footer{
-    background-color: black;
+    background-color:rgba(1, 73, 1, 0.993);
     color: white;
     text-align: center;
     padding: 5px;
+}
+
+.bg-mc{
+    background-color: rgb(12, 39, 12);
 }
